@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kozuki</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="songs">Songs</string>
+    <string name="folder">Folder</string>
+    <string name="playlists">Playlists</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="settings">Settings</string>
+</resources>

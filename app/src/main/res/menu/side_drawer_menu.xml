@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home" android:title="@string/home"/>
+    <item android:id="@+id/nav_artists" android:title="@string/artists"/>
+    <item android:id="@+id/nav_albums" android:title="@string/albums"/>
+    <item android:id="@+id/nav_Songs" android:title="@string/songs"/>
+    <item android:id="@+id/nav_folder" android:title="@string/folder"/>
+    <item android:id="@+id/nav_playslits" android:title="@string/playlists"/>
+    <item android:id="@+id/nav_sound_effects" android:title="@string/sound_effects"/>
+    <item android:id="@+id/nav_settings" android:title="@string/settings"/>
+
+</menu>
